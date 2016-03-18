@@ -6,4 +6,6 @@
     <string name="EnterName">Enter Your Name</string>
     <string name="ok_button_text">OK</string>
     <string name="cancel_button_text">Cancel</string>
+    <string name="title_activity_info">Info Screen</string>
+    <string name="infoTextBox">Info Details Here</string>
 </resources>
